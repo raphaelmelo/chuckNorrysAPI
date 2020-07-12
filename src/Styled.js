@@ -57,6 +57,11 @@ export const Section = Styled.section`
       padding: 4px;
       border-radius: 2px;
       border: 1px solid #ccc;
+      transition:0.25s ease; 
+     }
+     p:active{
+       background: #034;
+       color:#fff;
      }
 
 `
