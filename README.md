@@ -1,8 +1,10 @@
-Projeto de estudo frontend: Chuck Norrys API desenvolvido com React Js com Hook UseState para gerenciamento de estado;
+Projeto de estudo frontend: Chuck Norrys API 
 
-Libs
-Styled Components e Axios;
+Tecnologias
 
+HTML
+CSS (styled components)
+Javascript
+React (Hook UseState)
+Axios (integração com a API)
 
-Acesse:
-https://cnapi.netlify.app/
